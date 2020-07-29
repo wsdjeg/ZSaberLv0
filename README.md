@@ -1,10 +1,10 @@
-### Hi there 👋 Welcome to my GitHub! [![HitCount](http://hits.dwyl.io/itning/itning.svg)](http://hits.dwyl.io/itning/itning)
+### Hi there 👋 Welcome to my GitHub!
 
-<a href="https://github.com/itning">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=itning" />
+<a href="https://github.com/ZSaberLv0">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ZSaberLv0" />
 </a>
-<a href="https://github.com/itning">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itning" />
+<a href="https://github.com/ZSaberLv0">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSaberLv0" />
 </a>
 
 <!--
