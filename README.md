@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub! [![HitCount](http://hits.dwyl.io/itning/itning.svg)](http://hits.dwyl.io/itning/itning)
+
+<a href="https://github.com/itning">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=itning" />
+</a>
+<a href="https://github.com/itning">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itning" />
+</a>
 
 <!--
 **ZSaberLv0/ZSaberLv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
